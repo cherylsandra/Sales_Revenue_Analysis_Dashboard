@@ -1,2 +1,16 @@
-# Sales_Revenue_Analysis_Dashboard
-Power BI Sales &amp; Revenue Analysis Dashboard created as part of Thiranex Data Analytics Internship.
+# Sales & Revenue Analysis Dashboard
+
+## Tools Used
+- Microsoft Power BI
+- Sample Superstore Dataset
+
+## Dashboard Features
+- Total Sales KPI
+- Total Profit KPI
+- Sales by Category
+- Sales Trend
+- Top Products by Sales
+- Region and Category Filters
+
+## Objective
+To analyze sales performance and create an interactive dashboard for business insights.
